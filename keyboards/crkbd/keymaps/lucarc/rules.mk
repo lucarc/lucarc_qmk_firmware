@@ -1,0 +1,6 @@
+EXTRAFLAGS 			+= -flto
+OLED_ENABLE			= yes
+OLED_DRIVER		 	= SSD1306
+WPM_ENABLE 			= yes	
+CONSOLE_ENABLE 		= yes
+TAP_DANCE_ENABLE 	= yes

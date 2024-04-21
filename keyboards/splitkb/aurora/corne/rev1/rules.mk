@@ -15,3 +15,7 @@
 
 # Although no rules are defined,
 # presence of this file is required for QMK to compile it.
+
+SPLIT_KEYBOARD = yes  # Enables split keyboard
+OLED_ENABLE = yes     # Enables the use of OLED displays
+OLED_DRIVER = ssd1306 # Selects the right driver
